@@ -5,7 +5,7 @@ Limpeza e análise de vagas de ciência de dados do Glassdoor com Python (pandas
 **🔗 [Acessar o dashboard interativo](https://app.powerbi.com/view?r=eyJrIjoiYWZjZmYyYzAtYzQ5Ny00ODcxLTlhNDktZWIzZTBhNzFiMjY1IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)**
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYWZjZmYyYzAtYzQ5Ny00ODcxLTlhNDktZWIzZTBhNzFiMjY1IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9">
-  <img width="1593" height="854" alt="Preview do dashboard" src="https://github.com/user-attachments/assets/ef3869c2-73b7-454a-9f76-db8b885ea584" />
+  <img width="1515" alt="Preview do dashboard" src="https://github.com/user-attachments/assets/04e770c8-1c5a-4678-ab2b-444fa8098d12" />
 </a>
 
 ---
@@ -43,7 +43,7 @@ Depois da limpeza, realizei uma análise exploratória para tirar as primeiras c
 
 **Data Scientist domina o mercado.** Dos cargos identificados, 455 são de Data Scientist — quase 10x mais que Data Analyst e Data Engineer, empatados em 47 vagas.
 
-**O estado da Califórnia concentra as vagas**, com 163 posições, e a região de Washington DC (Virgínia + Maryland + DC) também chama atenção com 136 vagas somadas.
+**O estado da Califórnia concentra as vagas**, com 165 posições, e a região metropolitana de Washington DC (Virgínia, Maryland e DC) também chama atenção com 155 vagas somadas.
 
 **Salário médio de US$ 123,7 mil por ano**, com metade das vagas entre US$ 103 mil e US$ 136 mil. A faixa vai de US$ 43,5 mil a US$ 271,5 mil.
 
